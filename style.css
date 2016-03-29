@@ -1,6 +1,10 @@
 body {
   background-color: lightblue;
 }
+header {
+  width: 960px;
+  border: 2px black;
+}
 h1 {
   color: white;
   font-size: 80px;
