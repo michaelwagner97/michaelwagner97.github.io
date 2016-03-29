@@ -8,7 +8,8 @@ header {
   border-style: solid;
   border-width: 4px;
   background-color: blue;
-  padding-top: .5em;
+  padding: 0;
+  margin: 0;
 }
 h1 {
   color: white;
@@ -19,4 +20,45 @@ p {
   color: white;
   font-size: 20px;
   text-align: center;
+}
+
+/* CSS reset */
+body,div,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+    margin:0;
+    padding:0;
+}
+html,body {
+    margin:0;
+    padding:0;
+}
+/* Extra options you might want to consider*/
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+fieldset,img { 
+    border:0;
+}
+input{
+    border:1px solid #b0b0b0;
+    padding:3px 5px 4px;
+    color:#979797;
+    width:190px;
+}
+address,caption,cite,code,dfn,th,var {
+    font-style:normal;
+    font-weight:normal;
+}
+ol,ul {
+    list-style:none;
+}
+caption,th {
+    text-align:left;
+}
+q:before,q:after {
+    content:'';
+}
+abbr,acronym { 
+    border:0;
 }
