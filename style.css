@@ -1,10 +1,14 @@
 body {
   background-color: lightblue;
+  margin: 0px;
+  padding: 0px;
 }
 header {
   width: 960px;
-  border: 2px black;
+  border-style: solid;
+  border-width: 4px;
   background-color: blue;
+  padding-top: .5em;
 }
 h1 {
   color: white;
