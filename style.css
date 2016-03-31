@@ -75,7 +75,7 @@ ol,ul {
     list-style:none;
 }
 caption,th {
-    text-align:left;
+    text-align:center;
 }
 q:before,q:after {
     content:'';
