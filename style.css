@@ -29,6 +29,7 @@ header {
    max-width: 960px;
   flex-grow: 1;
   justify-content: center;
+  vertical-align: middle;
 }
 
 h1 {
