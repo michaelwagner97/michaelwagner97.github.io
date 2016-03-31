@@ -19,7 +19,7 @@ header {
   border-color: white;
   border-width: 4px;
   background-color: darkblue;
-  flex-grow: 1;
+  flex-grow: 1 0;
   justify-content: center;
 }
 
