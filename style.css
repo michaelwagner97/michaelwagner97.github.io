@@ -28,7 +28,7 @@ ul#menu {
 }
 
 ul#menu li {
-    display: center
+    display: inline
 }
 
 ul#menu li a {
