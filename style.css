@@ -23,6 +23,7 @@ header {
   flex-grow: 1 0;
   justify-content: center;
   vertical-align: middle;
+  min-height: 10em;
 }
 
 #main {
@@ -30,6 +31,7 @@ header {
   flex-grow: 1;
   justify-content: center;
   vertical-align: middle;
+  min-height: 10em;
 }
 
 h1 {
