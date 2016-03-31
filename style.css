@@ -4,7 +4,7 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  min-height: 150vh;
+  min-height: 10em;
   vertical-align: middle;
   
 }
