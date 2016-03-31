@@ -21,6 +21,7 @@ header {
   background-color: darkblue;
   flex-grow: 1 0;
   justify-content: center;
+  vertical-align: middle;
 }
 
 #main {
