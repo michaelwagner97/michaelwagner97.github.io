@@ -4,7 +4,7 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  min-height: 105vh;
+  min-height: 100vh;
   vertical-align: middle;
   
 }
@@ -23,7 +23,6 @@ header {
   flex-grow: 1 0;
   justify-content: center;
   vertical-align: middle;
-  min-height: 105vh;
 }
 
 #main {
@@ -31,7 +30,6 @@ header {
   flex-grow: 1;
   justify-content: center;
   vertical-align: middle;
-  min-height: 105vh;
 }
 
 h1 {
