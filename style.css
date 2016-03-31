@@ -12,6 +12,11 @@ header {
   padding: 0;
   margin: 0;
 }
+.center {
+  margin: auto;
+  width: 60%;
+  }
+
 h1 {
   color: white;
   font-size: 80px;
