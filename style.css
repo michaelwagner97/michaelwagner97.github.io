@@ -9,10 +9,8 @@ header {
   border-color: white;
   border-width: 4px;
   background-color: darkblue;
-  padding: 0;
+  padding: 0 auto;
   margin: 0;
-  display: flex;
-  justify-content: center
 }
 
 h1 {
