@@ -5,7 +5,6 @@
   align-items: center;
   justify-content: center;
   min-height: 8em;
-  min-width: 20em;
   vertical-align: middle;
   
 }
@@ -17,7 +16,6 @@ body {
 }
 header {
   max-width: 960px;
-  min-width: 20em;
   border-style: solid;
   border-color: white;
   border-width: 4px;
@@ -30,7 +28,6 @@ header {
 
 #main {
    max-width: 960px;
-   min-width: 20em;
   flex-grow: 1;
   justify-content: center;
   vertical-align: middle;
