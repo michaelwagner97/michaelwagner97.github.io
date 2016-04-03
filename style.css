@@ -52,8 +52,8 @@ ul#menu {
 }
 
 ul#menu li {
-    display: inline
-    justify-content: center
+    display: inline;
+    justify: center;
 }
 
 ul#menu li a {
