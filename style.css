@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  min-height: 9em;
+  min-height: 10em;
   vertical-align: middle;
   
 }
@@ -25,7 +25,7 @@ header {
   flex-grow: 1 0;
   justify-content: center;
   vertical-align: middle;
-  min-height: 9em;
+  min-height: 10em;
 }
 
 #main {
@@ -33,7 +33,7 @@ header {
   flex-grow: 1;
   justify-content: center;
   vertical-align: middle;
-  min-height: 9em;
+  min-height: 10em;
 }
 
 h1 {
