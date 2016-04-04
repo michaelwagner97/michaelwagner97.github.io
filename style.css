@@ -29,7 +29,6 @@ header {
 
 #main {
    max-width: 960px;
-   width: 300px;
   flex-grow: 1;
   justify-content: center;
   vertical-align: middle;
