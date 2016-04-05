@@ -41,7 +41,6 @@ p1 {
 #main {
    max-width: 960px;
   flex-grow: 1;
-  vertical-align: middle;
   min-height: 8.5em;
 }
 
