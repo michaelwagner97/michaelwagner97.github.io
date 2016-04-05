@@ -37,7 +37,8 @@ p1 {
     color: white;
     margin: 0;
     font-family: 'Playfair Display', serif;
-    align-items: left;
+    align-items: center;
+    justify-content: center;
 }
 
 #main {
