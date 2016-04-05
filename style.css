@@ -23,7 +23,7 @@ header {
   border-width: 4px;
   background-color: darkblue;
   flex-grow: 1 0;
-  justify: center;
+  justify-content: center;
   vertical-align: middle;
   min-height: 8.5em;
 }
@@ -38,7 +38,7 @@ p1 {
   background-color: darkblue;
   font-family: 'Playfair Display', serif;
   flex-grow: 1 0;
-  justify-content: center;
+  jusitfy-content: left;
   vertical-align: middle;
   min-height: 8.5em;
   padding: 4px;
