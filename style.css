@@ -4,6 +4,9 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  text-align: center;
+  min-height: 8.5em;
+  vertical-align: middle;
   
 }
 
