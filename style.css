@@ -39,6 +39,7 @@ p1 {
     font-family: 'Playfair Display', serif;
     align-items: center;
     justify-content: center;
+    margin: 4px;
 }
 
 #main {
