@@ -33,6 +33,7 @@ p1 {
   width: 800px;
   border-style: solid;
   border-color: white;
+  color: white;
   border-width: 4px;
   background-color: darkblue;
   flex-grow: 1 0;
