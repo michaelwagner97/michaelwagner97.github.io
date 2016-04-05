@@ -28,6 +28,19 @@ header {
   min-height: 8.5em;
 }
 
+p1 {
+  max-width: 960px;
+  width: 800px;
+  border-style: solid;
+  border-color: white;
+  border-width: 4px;
+  background-color: darkblue;
+  flex-grow: 1 0;
+  justify-content: center;
+  vertical-align: middle;
+  min-height: 8.5em;
+}
+
 #main {
    max-width: 960px;
   flex-grow: 1;
