@@ -29,9 +29,10 @@ header {
 }
 
 p1 {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
+    width: 800px;
+    max-width: 800px;
+    padding: 4px;
+    border: 4px solid white;
     margin: 0;
     font-family: 'Playfair Display', serif;
     justify-content: left;
