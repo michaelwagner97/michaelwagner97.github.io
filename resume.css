@@ -1,0 +1,141 @@
+#container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 8.5em;
+  vertical-align: middle;
+  
+}
+
+body {
+  background-color: lightblue;
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  max-width: 960px;
+  width: 800px;
+  border-style: solid;
+  border-color: white;
+  border-width: 4px;
+  background-color: darkblue;
+  flex-grow: 1 0;
+  justify-content: center;
+  vertical-align: middle;
+  min-height: 8.5em;
+}
+
+#left {
+    width: 400px;
+    padding: 4px;
+    border: 4px solid white;
+    background-color: darkblue;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    text-align: left;
+}    
+
+#right {
+  width: 485px;
+   border: 4px solid white;
+   height: 322px;
+    background-color: darkblue;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    text-align: left;
+}
+
+
+#main {
+   max-width: 960px;
+  flex-grow: 1;
+  min-height: 8.5em;
+  display: flex;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  vertical-align: middle;
+}
+p {
+  color: white;
+  font-size: 16px;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  vertical-align: middle;
+}
+
+nav {
+  width: 100%;
+}
+ul#menu {
+    padding: 15px;
+    justify-content: center;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: darkblue;
+    color: white;
+    padding: 16px 122px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Playfair Display', serif;
+    border-radius: 20px 20px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: blue;
+}
+
+/* CSS reset */
+body,div,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+    margin:0;
+    padding:0;
+}
+html,body {
+    margin:0;
+    padding:0;
+}
+/* Extra options you might want to consider*/
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+fieldset,img { 
+    border:0;
+}
+input{
+    border:1px solid #b0b0b0;
+    padding:3px 5px 4px;
+    color:#979797;
+    width:190px;
+}
+address,caption,cite,code,dfn,th,var {
+    font-style:normal;
+    font-weight:normal;
+}
+ol,ul {
+    list-style:none;
+}
+caption,th {
+    text-align:center;
+}
+q:before,q:after {
+    content:'';
+}
+abbr,acronym { 
+    border:0;
+}
