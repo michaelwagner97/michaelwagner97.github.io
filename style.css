@@ -140,7 +140,7 @@ header {
 }
 #right img {
     height: 15em;
-    opacity: 0;
+    opacity: 1;
     transition: .25s;
     width: 25em;
     vertical-align: top;
