@@ -106,7 +106,7 @@ header {
 }
 #right li input:checked ~ img {
     opacity: 1;
-    visibility: visible;
+    visibility: hidden;
     z-index: 10;
 }
 
