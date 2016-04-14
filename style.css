@@ -74,7 +74,7 @@ header {
                 0 30px 20px -15px hsla(0,0%,0%,.15),
                 0 40px 20px -15px hsla(0,0%,0%,.1);
     content: '';
-    left: -2.5em;
+    left: 2.5em;
     position: absolute;
     right: -2.5em;
     top: -2.5em;
