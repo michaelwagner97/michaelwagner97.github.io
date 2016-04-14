@@ -39,16 +39,7 @@ header {
     text-align: left;
 }    
 
-#right {
-  width: 485px;
-   border: 4px solid white;
-   height: 322px;
-    background-color: darkblue;
-    color: white;
-    font-family: 'Playfair Display', serif;
-    margin: 0;
-    text-align: left;
-}
+
 
 #right {
   width: 485px;
