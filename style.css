@@ -144,7 +144,7 @@ header {
     transition: .25s;
     width: 25em;
     vertical-align: top;
-    visibility: visible;
+    visibility: hidden;
 }
 #right li input:checked ~ img {
     opacity: 1;
