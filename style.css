@@ -53,7 +53,7 @@ header {
 
 
 
-#right:before {
+#right: before {
     background-color: ;
     bottom: -2.5em; hsla(0,0%,100%,.2),
                 inset 0 -2px 1px hsla(0,0%,0%,.4),
@@ -69,7 +69,7 @@ header {
     top: -2.5em;
     z-index: -1;
 }
-#right:after {
+#right: after {
     background-color:;
     bottom: -1.5em;
     box-shadow:  hsla(0,0%,100%,.2),
@@ -109,7 +109,7 @@ header {
     visibility: hidden;
     z-index: 10;
 }
-#right label:after {
+#right label: after {
     border-radius: 100%;
     bottom: -.2em;
     box-shadow: inset 0 0 0 .2em #111,
@@ -121,23 +121,23 @@ header {
     right: -.2em;
     top: -.2em;
 }
-#right:hover label {
+#right: hover label {
     opacity: 1;
     visibility: visible;
 }
 #right input:checked + label {
     background-color: #fff;
 }
-#right:hover li:nth-child(1) label {
+#right: hover li:nth-child(1) label {
     left: .5em;
 }
-#right:hover li:nth-child(2) label {
+#right: hover li:nth-child(2) label {
     left: 2em;
 }
-#right:hover li:nth-child(3) label {
+#right: hover li:nth-child(3) label {
     left: 3.5em;
 }
-#right:hover li:nth-child(4) label {
+#right: hover li:nth-child(4) label {
     left: 5em;
 }
 #right img {
