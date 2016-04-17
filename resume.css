@@ -48,7 +48,7 @@ header {
     font-family: 'Playfair Display', serif;
     margin: 0;
     text-align: center;
-    justify-content: center;
+    justify-content: center middle;
     vertical-align: middle;
 }
 
