@@ -60,7 +60,7 @@ header {
                 0 20px 20px -15px hsla(0,0%,0%,.2),
                 0 30px 20px -15px hsla(0,0%,0%,.15),
                 0 40px 20px -15px hsla(0,0%,0%,.1);
-    content: '';
+    content: ";
   justify-content: right;
     left: -2.5em;
     position: absolute;
