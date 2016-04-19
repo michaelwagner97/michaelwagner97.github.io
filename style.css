@@ -60,7 +60,7 @@ header {
                 0 20px 20px -15px hsla(0,0%,0%,.2),
                 0 30px 20px -15px hsla(0,0%,0%,.15),
                 0 40px 20px -15px hsla(0,0%,0%,.1);
-    content: ";
+    content: '';
   justify-content: right;
     left: -2.5em;
     position: absolute;
@@ -76,7 +76,7 @@ header {
                 inset 0 2px 3px 1px hsla(0,0%,0%,.2),
                 inset 0 4px 3px 1px hsla(0,0%,0%,.2),
                 inset 0 6px 3px 1px hsla(0,0%,0%,.1);
-    content: ";
+    content: '';
     left: -1.5em;
     position: absolute;
     right: -1.5em;
@@ -133,12 +133,7 @@ header {
 #right:hover li:nth-child(2) label {
     left: 2em;
 }
-#right:hover li:nth-child(3) label {
-    left: 3.5em;
-}
-#right:hover li:nth-child(4) label {
-    left: 5em;
-}
+
 #right img {
     height: 15em;
     opacity: 0;
@@ -239,7 +234,7 @@ caption,th {
     text-align:center;
 }
 q:before,q:after {
-    content: ";
+    content: '';
 }
 abbr,acronym { 
     border:0;
