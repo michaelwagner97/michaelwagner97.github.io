@@ -28,6 +28,26 @@ header {
   min-height: 8.5em;
 }
 
+header2 {
+   max-width: 960px;
+  width: 800px;
+  background-color: darkblue;
+  flex-grow: 1 0;
+  justify-content: center;
+  vertical-align: middle;
+  min-height: 8.5em;
+}
+
+header3 {
+   max-width: 960px;
+  width: 800px;
+  background-color: darkblue;
+  flex-grow: 1 0;
+  justify-content: center;
+  vertical-align: middle;
+  min-height: 8.5em;
+}
+
 #left {
     width: 400px;
     padding: 4px;
