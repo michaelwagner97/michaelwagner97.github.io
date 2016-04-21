@@ -58,6 +58,10 @@ header4 {
   min-height: 8.5em; 
 }
 
+p8 {
+  text-indent: 50px;
+}
+
 #left {
     width: 435px;
     height: 500px;
