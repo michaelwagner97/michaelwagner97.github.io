@@ -48,6 +48,16 @@ header3 {
   min-height: 8.5em;
 }
 
+header4 {
+  max-width: 960px;
+  width: 800px;
+  background-color: darkblue;
+  flex-grow: 1 0;
+  justify-content: center;
+  vertical-align: middle;
+  min-height: 8.5em; 
+}
+
 #left {
     width: 400px;
     padding: 4px;
@@ -98,6 +108,14 @@ h2 {
 }
 
 h3 {
+  color: white;
+  font-size: 30px;
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+  vertical-align: middle;
+}
+
+h4 {
   color: white;
   font-size: 30px;
   font-family: 'Playfair Display', serif;
