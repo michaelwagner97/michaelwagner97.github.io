@@ -147,7 +147,6 @@ header {
     width: 485px;
     vertical-align: top;
     visibility: hidden;
-    justify-content: right;
 }
 #right li input:checked ~ img {
     opacity: 1;
