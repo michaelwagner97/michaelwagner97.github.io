@@ -141,10 +141,10 @@ header {
 }
 
 #right img {
-    height: 15em;
+    height: 322px;
     opacity: 0;
     transition: .25s;
-    width: 25em;
+    width: 485px;
     vertical-align: top;
     visibility: hidden;
     justify-content: right;
