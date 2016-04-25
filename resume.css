@@ -58,6 +58,26 @@ header4 {
   min-height: 8.5em; 
 }
 
+header5 {
+ max-width: 960px;
+  width: 800px;
+  background-color: darkblue;
+  flex-grow: 1 0;
+  justify-content: center;
+  vertical-align: middle;
+  min-height: 8.5em;  
+}
+
+header6 {
+  max-width: 960px;
+  width: 800px;
+  background-color: darkblue;
+  flex-grow: 1 0;
+  justify-content: center;
+  vertical-align: middle;
+  min-height: 8.5em; 
+}
+
 p8 {
   text-indent: 50px;
 }
@@ -119,6 +139,22 @@ h3 {
 }
 
 h4 {
+  color: white;
+  font-size: 30px;
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+  vertical-align: middle;
+}
+
+h5 {
+  color: white;
+  font-size: 30px;
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+  vertical-align: middle;
+}
+
+h6 {
   color: white;
   font-size: 30px;
   font-family: 'Playfair Display', serif;
