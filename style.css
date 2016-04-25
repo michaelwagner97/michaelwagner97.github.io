@@ -128,7 +128,7 @@ header {
     visibility: visible;
 }
 #right input:checked + label {
-    background-color: darkblue;
+    background-color: blue;
 }
 #right:hover li:nth-child(1) label {
     left: .5em;
