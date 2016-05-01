@@ -31,11 +31,6 @@ header {
   min-height: 8.5em;
 }
 
-@font-face {
- font-family: "starwars";
- src: url("STARWARS.ttf");
-}
-
 #left {
     width: 400px;
     padding: 2px;
@@ -176,7 +171,7 @@ header {
 h1 {
   color: white;
   font-size: 70px;
-  font-family: font-family: "starwars";
+  font-family: font-family: 'Playfair Display', serif;
   text-align: center;
   vertical-align: middle;
 }
