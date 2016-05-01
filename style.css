@@ -183,6 +183,12 @@ p {
   vertical-align: middle;
 }
 
+p1 {
+  color: white;
+  font-size: 14px;
+  font-family: 'Playfair Display', serif;
+}
+
 nav {
   width: 100%;
 }
