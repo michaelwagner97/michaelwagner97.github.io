@@ -33,7 +33,7 @@ header {
 
 @font-face {
  font-family: "starwars";
- src: url(STARWARS.ttf);
+ src: url("STARWARS.ttf");
 }
 
 #left {
