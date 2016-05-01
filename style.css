@@ -33,7 +33,7 @@ header {
 
 #left {
     width: 400px;
-    padding: 4px;
+    padding: 2px;
     border: 4px solid white;
     background-color: darkblue;
     color: white;
@@ -45,7 +45,7 @@ header {
 #right {
   width: 485px;
    border: 4px solid white;
-   height: 400px;
+   height: 322px;
    /* was 322 */
     background-color: darkblue;
     color: white;
