@@ -207,7 +207,7 @@ ul#menu li {
 ul#menu li a {
     background-color: darkblue;
     color: white;
-    padding: 16px 114px;
+    padding: 16px 115px;
     /* was 122px, maybe try 100px */
     text-decoration: none;
     font-size: 16px;
