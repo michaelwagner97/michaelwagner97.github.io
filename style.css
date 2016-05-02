@@ -28,7 +28,8 @@ header {
   flex-grow: 1 0;
   justify-content: center;
   vertical-align: middle;
-  min-height: 8.5em;
+  min-height: 8.0em;
+  /* was 8.5em */
 }
 
 #left {
