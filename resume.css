@@ -80,6 +80,43 @@ header6 {
 
 p8 {
   text-indent: 50px;
+  font-family: 'Play', sans-serif;
+  font-size: 15px;
+}
+
+p1 {
+  font-family: 'Play', sans-serif;
+  font-size: 15px;
+}
+
+p2 {
+  font-family: 'Play', sans-serif;
+  font-size: 15px;
+}
+
+p3 {
+  font-family: 'Play', sans-serif;
+  font-size: 15px;
+}
+
+p4 {
+  font-family: 'Play', sans-serif;
+  font-size: 15px;
+}
+
+p5 {
+ font-family: 'Play', sans-serif;
+  font-size: 15px; 
+}
+
+p6 {
+  font-family: 'Play', sans-serif;
+  font-size: 15px;
+}
+
+p7 {
+  font-family: 'Play', sans-serif;
+  font-size: 15px;
 }
 
 #left {
@@ -117,7 +154,7 @@ p8 {
 h1 {
   color: white;
   font-size: 70px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Play', sans-serif;
   text-align: center;
   vertical-align: middle;
 }
@@ -125,7 +162,7 @@ h1 {
 h2 {
   color: white;
   font-size: 30px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Play', sans-serif;
   text-align: left;
   vertical-align: middle;
 }
@@ -133,7 +170,7 @@ h2 {
 h3 {
   color: white;
   font-size: 30px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Play', sans-serif;
   text-align: left;
   vertical-align: middle;
 }
@@ -141,7 +178,7 @@ h3 {
 h4 {
   color: white;
   font-size: 30px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Play', sans-serif;
   text-align: left;
   vertical-align: middle;
 }
@@ -149,7 +186,7 @@ h4 {
 h5 {
   color: white;
   font-size: 30px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Play', sans-serif;
   text-align: left;
   vertical-align: middle;
 }
@@ -157,7 +194,7 @@ h5 {
 h6 {
   color: white;
   font-size: 30px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Play', sans-serif;
   text-align: left;
   vertical-align: middle;
 }
