@@ -25,7 +25,7 @@ header {
   flex-grow: 1 0;
   justify-content: center;
   vertical-align: middle;
-  min-height: 8.5em;
+  min-height: 8.7em;
 }
 
 header2 {
@@ -178,8 +178,8 @@ p13 {
 
 h1 {
   color: white;
-  font-size: 70px;
-  font-family: 'Playfair Display', serif;
+  font-size: 85px;
+  font-family: 'Alex Brush', cursive;
   text-align: center;
   vertical-align: middle;
 }
