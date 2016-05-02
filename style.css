@@ -195,7 +195,7 @@ nav {
   width: 100%;
 }
 ul#menu {
-    padding: 10px;
+    padding: 15px;
     /* was 15px */
     justify-content: center;
 }
@@ -207,8 +207,8 @@ ul#menu li {
 ul#menu li a {
     background-color: darkblue;
     color: white;
-    padding: 16px 90px;
-    /* was 122px */
+    padding: 16px 95px;
+    /* was 122px, maybe try 90px */
     text-decoration: none;
     font-size: 16px;
     font-family: 'Audiowide', cursive;
